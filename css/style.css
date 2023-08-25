@@ -34,7 +34,7 @@ li {
   margin: 0;
   padding: 0;
   border: 0;
-  background-image: url(/img/cidadeSust.jpg);
+  background: url(/img/cidadeSust.jpg);
   background-size: cover;
   text-align: center;
   width: 100%;
