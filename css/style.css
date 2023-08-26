@@ -38,7 +38,7 @@ li a:hover {
 }
 
 .inicio {
-  background-image: url(/img/city.jpg);
+  background-image: url(../img/city.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: scroll;
@@ -173,7 +173,7 @@ footer {
   float: left;
   padding: 1.5rem;
   background-color: rgb(14, 64, 95);
-  background-size: cover;
+  background-size: contain;
   width: 100%;
   color: white;
 }
