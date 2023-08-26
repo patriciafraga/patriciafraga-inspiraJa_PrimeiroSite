@@ -38,7 +38,7 @@ li a:hover {
 }
 
 .inicio {
-  background-image: url(/img/canva/4.jpg);
+  background-image: url(/img/city.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: scroll;
@@ -53,12 +53,13 @@ li a:hover {
 h1 {
   margin: 0;
   color: #ffff;
-  padding-top: 20%;
+  padding-top: 24%;
   font-size: 4rem;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   margin-bottom: 0;
 }
 h2 {
+  padding-top: 0;
   color: white;
   padding-left: 20%;
   padding-right: 20%;
